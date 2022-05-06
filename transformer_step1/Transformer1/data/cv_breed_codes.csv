@@ -1,0 +1,75 @@
+Code,Breed,Beef,Dairy
+KB,Kobe (Wagyu),1,0
+AA,Aberdeen Angus,1,0
+AM,Amerifax,1,0
+AN,Aberdeen Angus,1,0
+BB,Begian Blue / British Blue,1,0
+BG,Belted Galloway,1,0
+BM,Beefmaster,1,0
+BN,Brangus,1,0
+BO,Braford x Zebu,1,0
+SP,Speckle Park ,1,0
+TB,Tabapua,1,0
+TL,Texas Longhorn,1,0
+WB,Welsh Black,1,0
+XB,Beef Crossbred,1,0
+XX,Dairy x Beef,1,0
+AR,Angler Rotvieh,0,1
+AY,Ayrshire,0,1
+BS,Brown Swiss,0,1
+WW,Red Holstein,0,1
+XD,Dairy Crossbred,0,1
+GL,Gaoloao,1,1
+GO,Gloucester,1,1
+GT,Grey Steppe,1,1
+GY,Gir,1,1
+SS,Shorthorn,1,1
+SW,Sahiwal,1,1
+TH,Tharparkar,1,1
+MT,null,0,0
+DF,Dutch Friesian,0,1
+FH,Fleckvieh x Holstein,0,1
+FL,Fleckvieh,0,1
+GU,Guernsey,0,1
+HA,Holando-argentino,0,1
+HO,Holstein,0,1
+JE,Jersey,0,1
+LD,Lineback,0,1
+MI,Meusse-Rhine-Issel,0,1
+MO,Montbeliard,0,1
+MS,Milking Shorthorn,0,1
+MU,Murrah,0,1
+NM,Normande,0,1
+NO,Normande,0,1
+NR,Norwegian Red,0,1
+RD,Red Dane,0,1
+RE,Reggiana,0,1
+SR,Swedish Red,0,1
+GZ,Guzerat,1,0
+HH,Horned Hereford,1,0
+HP,Hereford Polled,1,0
+KR,Krishna Valley,1,0
+LM,Limousin,1,0
+MA,Maine Anjou,1,0
+MB,American Bucking,1,0
+MH,Mashona,1,0
+NE,Nellore,1,0
+NS,Bonsmara,1,0
+RB,Red Brangus,1,0
+RP,Red Poll,1,0
+RR,Red Brahman,1,0
+SA,Salers,1,0
+SD,South Devon ,1,0
+SE,Senepol,1,0
+SH,Scottish Highland,1,0
+SK,Speckle Park ,1,0
+SM,Simmental,1,0
+BR,Brahma,1,0
+CA,Chianina,1,0
+CC,Chinchim ,1,0
+CH,Charolais,1,0
+CM,Chimaine,1,0
+DE,Devon,1,0
+DL,Dutch Belted,1,0
+GN,Glan,1,0
+GV,Gelbvieh,1,0

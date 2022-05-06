@@ -1,0 +1,734 @@
+{
+    "US": [
+        {
+            "Trait": "milk",
+            "Mean": 0.0,
+            "StDev": 672.0,
+            "Weight": -0.01
+        },
+        {
+            "Trait": "fat",
+            "Mean": 0.0,
+            "StDev": 25.0,
+            "Weight": 0.27
+        },
+        {
+            "Trait": "prot",
+            "Mean": 0.0,
+            "StDev": 18.0,
+            "Weight": 0.27
+        },
+        {
+            "Trait": "PL",
+            "Mean": 0.0,
+            "StDev": 2.15,
+            "Weight": 0.08
+        },
+        {
+            "Trait": "LIV",
+            "Mean": 0.28,
+            "StDev": 1.0,
+            "Weight": 0.02
+        },
+        {
+            "Trait": "SCS",
+            "Mean": 3.0,
+            "StDev": -0.17,
+            "Weight": 0.03
+        },
+        {
+            "Trait": "DPR",
+            "Mean": 0.0,
+            "StDev": 1.9,
+            "Weight": 0.04
+        },
+        {
+            "Trait": "CCR",
+            "Mean": 0.0,
+            "StDev": 2.33,
+            "Weight": 0.01
+        },
+        {
+            "Trait": "HCR",
+            "Mean": 0.0,
+            "StDev": 1.55,
+            "Weight": 0.01
+        },
+        {
+            "Trait": "SCE",
+            "Mean": 2.2,
+            "StDev": -0.6,
+            "Weight": 0.01
+        },
+        {
+            "Trait": "SSB",
+            "Mean": 5.7,
+            "StDev": -0.4,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "DCE",
+            "Mean": 2.7,
+            "StDev": -0.7,
+            "Weight": 0.01
+        },
+        {
+            "Trait": "DSB",
+            "Mean": 6.6,
+            "StDev": -0.9,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "AHI",
+            "Mean": 100.0,
+            "StDev": 5.0,
+            "Weight": 0.04
+        },
+        {
+            "Trait": "ST",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": -0.04
+        },
+        {
+            "Trait": "SG",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.04
+        },
+        {
+            "Trait": "BD",
+            "Mean": 0.22,
+            "StDev": 1.0,
+            "Weight": 0.01
+        },
+        {
+            "Trait": "DF",
+            "Mean": 0.34,
+            "StDev": 1.0,
+            "Weight": -0.02
+        },
+        {
+            "Trait": "RA",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "TW",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.02
+        },
+        {
+            "Trait": "UDC",
+            "Mean": 0.51,
+            "StDev": 1.0,
+            "Weight": 0.03
+        },
+        {
+            "Trait": "FLC",
+            "Mean": 0.4,
+            "StDev": 1.0,
+            "Weight": 0.02
+        },
+        {
+            "Trait": "BWC",
+            "Mean": 0.22,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "PTAT",
+            "Mean": 0.54,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "LS",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "RV",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "FA",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "FLS",
+            "Mean": 0.45,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "FU",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "UH",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "UW",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "UC",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "UD",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.01
+        },
+        {
+            "Trait": "TP",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "RP",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.01
+        },
+        {
+            "Trait": "TL",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "MS",
+            "Mean": 100.0,
+            "StDev": 5.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "MT",
+            "Mean": 100.0,
+            "StDev": 5.0,
+            "Weight": 0.0
+        }
+    ],
+    "UK": [
+        {
+            "Trait": "milk",
+            "Mean": 0.0,
+            "StDev": 398.7,
+            "Weight": -5.0
+        },
+        {
+            "Trait": "fat",
+            "Mean": 0.0,
+            "StDev": 12.85,
+            "Weight": 18.0
+        },
+        {
+            "Trait": "prot",
+            "Mean": 0.0,
+            "StDev": 10.02,
+            "Weight": 17.0
+        },
+        {
+            "Trait": "PL_Lifespan",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 4.0
+        },
+        {
+            "Trait": "LIV",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "SCS_SCC",
+            "Mean": 0.0,
+            "StDev": -10.79,
+            "Weight": 5.0
+        },
+        {
+            "Trait": "DPR_DtrFert",
+            "Mean": 0.0,
+            "StDev": 5.21,
+            "Weight": 6.0
+        },
+        {
+            "Trait": "CCR",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "HCR",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "SCE_DCE",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 2.0
+        },
+        {
+            "Trait": "SSB",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "DCE_MCE",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 2.0
+        },
+        {
+            "Trait": "DSB",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "Mastitis",
+            "Mean": -0.75,
+            "StDev": 1.64,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "Locomotion",
+            "Mean": 0.54,
+            "StDev": 1.2,
+            "Weight": 2.0
+        },
+        {
+            "Trait": "Body Condition",
+            "Mean": 0.16,
+            "StDev": 1.11,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "Maintenance",
+            "Mean": 3.9,
+            "StDev": 13.57,
+            "Weight": 2.0
+        },
+        {
+            "Trait": "TB Advantage",
+            "Mean": 0.56,
+            "StDev": 2.15,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "AHI",
+            "Mean": 100.0,
+            "StDev": 5.0,
+            "Weight": 5.0
+        },
+        {
+            "Trait": "ST",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": -2.0
+        },
+        {
+            "Trait": "SG_CW",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 2.0
+        },
+        {
+            "Trait": "BD",
+            "Mean": -0.02,
+            "StDev": 1.05,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "DF_AN",
+            "Mean": 0.13,
+            "StDev": 1.11,
+            "Weight": -1.0
+        },
+        {
+            "Trait": "RA",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "TW_RW",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "UDC_Mammary",
+            "Mean": 0.67,
+            "StDev": 1.18,
+            "Weight": 5.0
+        },
+        {
+            "Trait": "FLC_Legs & Feet",
+            "Mean": 0.47,
+            "StDev": 1.14,
+            "Weight": 3.0
+        },
+        {
+            "Trait": "BWC",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "PTAT_Type Merit",
+            "Mean": 0.7,
+            "StDev": 1.23,
+            "Weight": 3.0
+        },
+        {
+            "Trait": "LS",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": -1.0
+        },
+        {
+            "Trait": "RV",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "FA",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "FLS",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "FU",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": -1.0
+        },
+        {
+            "Trait": "UH",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "UW",
+            "Mean": NaN,
+            "StDev": 1.0,
+            "Weight": NaN
+        },
+        {
+            "Trait": "UC",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": -1.0
+        },
+        {
+            "Trait": "UD",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "TP",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": -1.0
+        },
+        {
+            "Trait": "RP-RV",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "RP-SV",
+            "Mean": NaN,
+            "StDev": 1.0,
+            "Weight": NaN
+        },
+        {
+            "Trait": "TL",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": -1.0
+        },
+        {
+            "Trait": "MS",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "MT",
+            "Mean": 0.0,
+            "StDev": 1.0,
+            "Weight": -1.0
+        }
+    ],
+    "JE": [
+        {
+            "Trait": "milk",
+            "Mean": 63.0,
+            "StDev": 554.0,
+            "Weight": -1.0
+        },
+        {
+            "Trait": "fat",
+            "Mean": 18.0,
+            "StDev": 21.0,
+            "Weight": 20.0
+        },
+        {
+            "Trait": "prot",
+            "Mean": 9.0,
+            "StDev": 16.0,
+            "Weight": 20.0
+        },
+        {
+            "Trait": "PL",
+            "Mean": 0.89,
+            "StDev": 1.74,
+            "Weight": 10.0
+        },
+        {
+            "Trait": "LIV",
+            "Mean": 0.17,
+            "StDev": 0.9,
+            "Weight": 5.0
+        },
+        {
+            "Trait": "SCS",
+            "Mean": 2.97,
+            "StDev": -0.1,
+            "Weight": 5.0
+        },
+        {
+            "Trait": "DPR",
+            "Mean": 0.01,
+            "StDev": 1.41,
+            "Weight": 5.0
+        },
+        {
+            "Trait": "CCR",
+            "Mean": 0.23,
+            "StDev": 1.46,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "HCR",
+            "Mean": 0.68,
+            "StDev": 1.11,
+            "Weight": 1.0
+        },
+        {
+            "Trait": "SCE",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "SSB",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "DCE",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "DSB",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "AHI",
+            "Mean": 100.0,
+            "StDev": 5.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "ST",
+            "Mean": 0.13,
+            "StDev": 1.09,
+            "Weight": -1.0
+        },
+        {
+            "Trait": "SG",
+            "Mean": 0.19,
+            "StDev": 0.61,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "BD",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "DF",
+            "Mean": 0.0,
+            "StDev": 0.63,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "RA",
+            "Mean": 0.06,
+            "StDev": 0.77,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "TW",
+            "Mean": 0.14,
+            "StDev": 0.55,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "UDC",
+            "Mean": 4.23,
+            "StDev": 6.85,
+            "Weight": 2.0
+        },
+        {
+            "Trait": "FLC",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "BWC",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "PTAT",
+            "Mean": 0.2,
+            "StDev": 1.0,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "LS",
+            "Mean": -0.02,
+            "StDev": 0.4,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "RV",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "FA",
+            "Mean": 0.09,
+            "StDev": 0.45,
+            "Weight": 2.0
+        },
+        {
+            "Trait": "FLS",
+            "Mean": NaN,
+            "StDev": NaN,
+            "Weight": NaN
+        },
+        {
+            "Trait": "FU",
+            "Mean": 0.39,
+            "StDev": 0.78,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "UH",
+            "Mean": 0.13,
+            "StDev": 0.78,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "UW",
+            "Mean": -0.02,
+            "StDev": 0.67,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "UC",
+            "Mean": 0.09,
+            "StDev": 0.52,
+            "Weight": 3.0
+        },
+        {
+            "Trait": "UD",
+            "Mean": 0.48,
+            "StDev": 1.08,
+            "Weight": 3.0
+        },
+        {
+            "Trait": "TP",
+            "Mean": 0.04,
+            "StDev": 0.74,
+            "Weight": 0.0
+        },
+        {
+            "Trait": "RTP-RV",
+            "Mean": 0.08,
+            "StDev": 1.01,
+            "Weight": 4.0
+        },
+        {
+            "Trait": "RTP-SV",
+            "Mean": -0.09,
+            "StDev": 0.57,
+            "Weight": 3.0
+        },
+        {
+            "Trait": "TL",
+            "Mean": 0.02,
+            "StDev": 0.57,
+            "Weight": 4.0
+        },
+        {
+            "Trait": "MS",
+            "Mean": 100.0,
+            "StDev": 5.0,
+            "Weight": 6.0
+        },
+        {
+            "Trait": "MT",
+            "Mean": 100.0,
+            "StDev": 5.0,
+            "Weight": 4.0
+        }
+    ]
+}
